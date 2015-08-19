@@ -30,3 +30,4 @@ node_modules
 
 # Webstrom project files
 .idea/*
+.idea/workspace.xml
