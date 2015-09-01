@@ -3,9 +3,8 @@
  */
 
 var HistoryServerCapabilitiesType_Schema = {
-    name: "HistoryReadDetails",
-    //xx baseType:"ExtensionObject",
-    isAbstract: true,
+    name: "HistoryServerCapabilitiesType",
+    isAbstract: false,
     fields: [
         { name: "AccessHistoryDataCapability", isArray: false, fieldType: "Boolean", documentation: "Mandatory"},
         { name: "AccessHistoryEventsCapability", isArray: false, fieldType: "Boolean", documentation: "Mandatory"},

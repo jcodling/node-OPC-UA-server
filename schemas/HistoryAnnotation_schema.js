@@ -3,8 +3,7 @@
  */
 
 var HistoryAnnotation_Schema = {
-    name: "HistoryReadDetails",
-    //xx baseType:"ExtensionObject",
+    name: "HistoryAnnotation",
     isAbstract: true,
     fields: [
         { name: "message", isArray: false, fileType: "String", documentation: "Annotation message or text"},

@@ -2,7 +2,7 @@
 require("requirish")._(module);
 var factories = require("lib/misc/factories");
 
-// see part 4 $7.14
+// see part 11 6.6 page 28
 var HistoryUpdateType_Schema = {
     name: "HistoryUpdateType",
     enumValues: {
