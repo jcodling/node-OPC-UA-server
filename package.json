@@ -14,5 +14,8 @@
     "onoff": "^1.0.2",
     "r-pi-usonic": "^2.4.1",
     "rethinkdb": "^2.0.2"
+  },
+  "devDependencies": {
+    "should": "^7.1.0"
   }
 }
